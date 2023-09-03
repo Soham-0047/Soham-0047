@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<p align="center">
- 
+<p align="center"> 
 </p align="center">
 <img src="https://github.com/Soham-0047/Soham-0047/blob/main/images/back.png"/>
 
