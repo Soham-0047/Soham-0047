@@ -11,7 +11,8 @@
  <!--<img src="https://badges.pufler.dev/commits/yearly/Soham-0047" />-->
 
 </p align="center">
-I am a  IT student currently pursuing my fourth year at BCREC College 🏛, where I am majoring in Information Technology 🎓. My passion for coding and content creation extends to my role as a freelance content writer intern at GeeksforGeeks 🕸️, where I communicate complex technical concepts effectively through informative articles ✨.
+I am a  IT student currently pursuing my fourth year at BCREC 🏛, where I am majoring in Information Technology 🎓. 
+<!--My passion for coding and content creation extends to my role as a freelance content writer intern at GeeksforGeeks 🕸️, where I communicate complex technical concepts effectively through informative articles ✨.-->
 <p>
   
 </p>
