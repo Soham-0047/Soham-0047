@@ -53,12 +53,12 @@
 - ✍️ Written **25+ blogs** on Dev.to & Medium (10k+ reads)  
 - 🔥 45+ **Open Source Contributions**  
 
----
+<!-- ---
 
 ## 🎓 Certifications
 - ✅ **Full Stack Web Development** – FreeCodeCamp  
 - ✅ **C++ Programming** – Udemy  
-- ✅ Virtual Internships – Deloitte, Mastercard (Development & Cybersecurity)  
+- ✅ Virtual Internships – Deloitte, Mastercard (Development & Cybersecurity)   -->
 
 ---
 
