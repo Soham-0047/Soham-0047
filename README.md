@@ -62,13 +62,13 @@
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Soham-0047&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soham-0047&theme=radical" alt="Streak Stats" height="180"/>
 </p>
 
----
+--- -->
 
 ## 📈 GitHub Activity Graph
 [![Soham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Soham-0047&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -87,16 +87,16 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/soham-roy-/" target="_blank">
+  <a href="https://www.linkedin.com/in/sohamroy47/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"/>
   </a>
-  <a href="mailto:we.are@xyz.com">
+  <a href="mailto:bcrecsoham@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://dev.to/soham0047" target="_blank">
     <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat&logo=dev.to"/>
   </a>
-  <a href="https://medium.com/@soham0047" target="_blank">
+  <a href="https://medium.com/@Roy47" target="_blank">
     <img src="https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium"/>
   </a>
 </p>
