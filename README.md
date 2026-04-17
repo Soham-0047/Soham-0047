@@ -36,7 +36,7 @@
 ---
 
 ## 💼 Experience
-- **React.js Developer** – *1 year professional experience*  
+- **Frontend AI Developer** – *1 year professional experience*  
 - **Freelance Technical Content Writer @ GeeksforGeeks** (2023)  
   - Published 20+ technical articles (9k+ views)  
 - **Web Developer Intern @ Avarch LLC** (2022)  
